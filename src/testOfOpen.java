@@ -12,8 +12,10 @@ import java.net.URISyntaxException;
  *                 can;
  *                 can;
  */
+
 public class testOfOpen
 {
+    public static void main(String[] args)
     {
         Desktop d = Desktop.getDesktop();
 
